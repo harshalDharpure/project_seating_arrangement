@@ -1,6 +1,5 @@
 # project_seating_arrangement
-<<<<<<< HEAD
-project_seating_arrangement
+
 =======
 
 This CLI tool generates exam seating arrangements from timetable, mapping, and room capacity Excel data, with buffer and mode (sparse/dense) support.
@@ -35,6 +34,3 @@ docker-compose up --build
 ## Output
 - Excel files per slot/date, summarizing seating, student allocations, and seats left
 
-## Error Handling
-- All errors/clashes logged in `logs/errors.txt` and `logs/app.log`.
->>>>>>> f12b5a0 (Initial-commit)
