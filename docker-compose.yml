@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  seating-arrangement:
+    build: .
+    volumes:
+      - .:/app
+      - ./logs:/app/logs
+      - ./output:/app/output
+      - ./input_data_tt.xlsx:/app/input_data_tt.xlsx
+    command: python seating_arrangement.py

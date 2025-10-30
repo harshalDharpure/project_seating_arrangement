@@ -1,0 +1,10 @@
+2025-10-30 12:59:39,307 INFO:Running with buffer=0, mode=dense
+2025-10-30 12:59:39,810 INFO:Loaded sheet: in_timetable, shape: (7, 4)
+2025-10-30 12:59:40,904 INFO:Loaded sheet: in_course_roll_mapping, shape: (9864, 4)
+2025-10-30 12:59:41,034 INFO:Loaded sheet: in_roll_name_mapping, shape: (1810, 2)
+2025-10-30 12:59:41,067 INFO:Loaded sheet: in_room_capacity, shape: (28, 9)
+2025-10-30 13:00:47,642 INFO:Running with buffer=0, mode=dense
+2025-10-30 13:00:48,151 INFO:Loaded sheet: in_timetable, shape: (7, 4)
+2025-10-30 13:00:49,362 INFO:Loaded sheet: in_course_roll_mapping, shape: (9864, 4)
+2025-10-30 13:00:49,430 INFO:Loaded sheet: in_roll_name_mapping, shape: (1810, 2)
+2025-10-30 13:00:49,439 INFO:Loaded sheet: in_room_capacity, shape: (28, 9)
